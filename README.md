@@ -13,7 +13,7 @@ This is a personal portfolio website created using React JS, React Bootstrap, an
 
 ## Demo
 
-Check out the live demo of the website [here](#).
+Check out the live demo of the website [https://adeelahmad.codehub.pk](#).
 
 ## Features
 - Responsive design
@@ -30,11 +30,11 @@ Check out the live demo of the website [here](#).
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/AdeelAhmad1021/Portfolio.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd portfolio-website
+    cd Portfolio
     ```
 3. Install the dependencies:
     ```sh
