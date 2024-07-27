@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Novasinc Technologies",
+            "workType": "Full-time",
+            "workDescription": [
+                "At Novasinc Technologies, I work as a Software Engineer.", "Engaging in a range of projects such as website development, Python programming, and desktop application development."
+               
+            ],
+            "dateText": "06/20XX – Present"
+        },
+        {
+            "title": "MERN Stack",
+            "subtitle": "KICS",
+            "workType": "Internship",
+            "workDescription": [
+                "I completed a three-month MERN stack internship at KICS Lahore, gaining hands-on experience in building full-stack web applications using MongoDB, Express.js, React, and Node.js."
+            ],
+            "dateText": "05/2023 – 07/2023"
+        },
+        {
+            "title": "DOT NET Development",
+            "subtitle": "EVS Institute Lahore",
+            "workType": "Internship",
+            "workDescription": [
+                "Acquired comprehensive knowledge in .NET Framework, covering C#, ASP.NET, and MVC design patterns.","Developed practical skills through hands-on projects, focusing on web and desktop application development."
+
+            ],
+            "dateText": "08/2023 – 01/2024"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "projects" : [
+        {
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+           
+            "title": "Classification of Documents Using KNN",
+            "bodyText": "- An innovative project that integrates graph theory and machine learning. \n - By leveraging graph representations of documents and (KNN) algorithm.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdeelAhmad1021/Classification-of-Documents-Using-Graph-Based-Features-and-KNN"
+                }
+               
+            ],
+            "tags" : [
+                "Python",
+                "KNN Algorithm",
+                "Machine Learning"
+            ]
+        },
+        {
+            
+            "title": "Expense-Tracker-Apps",
+            "bodyText": "- The expense tracker app, developed using React.js and styled-components \n - It provides a responsive and user-friendly interface for real-time managements.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdeelAhmad1021/Expense-Tracker-Apps"
+                }
+            ],
+            "tags" : [
+                "React JS",
+                "Style Components",
+                "JavaScript"
+                
+            ]
+        },
+        {
+            "title": "Recipe App",
+            "bodyText": "- The recipe app built with Flutter offers a sleek and responsive interface for browsing, searching, and saving your favorite recipes.\n - It utilizes Flutter's cross-platform capabilities to deliver a consistent user experience on both iOS and Android devices.\n - Uses **Firebase** database to store recipies.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                }
+            ],
+            "tags" : [
+                "Flutter",
+                "Firebase",
+                "Android",
+                "ISO"
+            ]
+        },
+        {
+            "title": "Object Detction Using Tensorflow",
+            "bodyText": "- Object detection using TensorFlow trains models to identify and locate objects in images or videos.\n - It leverages TensorFlow's neural network libraries for accurate, real-time recognition and classification.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdeelAhmad1021/object-detction-using-tensorflow"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://object-detectiontamseel.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Dockerfile"
+                
+                
+            ]
+        },
+        {
+            "title": "object-detection",
+            "bodyText": "- Developed an object detection system using TensorFlow, capable of accurately identifying and localizing multiple objects in real-time. \n - Implemented convolutional neural networks (CNNs) to enhance detection accuracy and efficiency for various applications, such as surveillance and autonomous vehicles.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdeelAhmad1021/object-detection"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Python",
+                "Jupyter Notebok",
+                "Docker"
+                
+            ]
+        }
+    ]
+}
